@@ -1,0 +1,16 @@
+footer {
+  color: black;
+  background-color: white;
+  width: 100va;
+}
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 4rem;
+  align-items: center;
+  max-width: 65rem;
+  justify-self: center;
+  background-color: white;
+  padding: 5rem;
+  text-align: center;
+}
